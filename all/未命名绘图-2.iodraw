@@ -207,7 +207,10 @@
             <mxPoint x="137.5" y="372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yptoiJbeZHL3Vxr_CN8L-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yptoiJbeZHL3Vxr_CN8L-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yptoiJbeZHL3Vxr_CN8L-17" target="yptoiJbeZHL3Vxr_CN8L-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yptoiJbeZHL3Vxr_CN8L-17" value="K=2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="466" y="147" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
