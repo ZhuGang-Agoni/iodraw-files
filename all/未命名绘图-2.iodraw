@@ -365,8 +365,8 @@
             <mxPoint x="464" y="-36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-16" value="事项记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="349" y="42" width="60" height="55" as="geometry" />
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-16" value="其他事记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="435" y="32" width="60" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
