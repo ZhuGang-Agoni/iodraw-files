@@ -168,7 +168,10 @@
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yptoiJbeZHL3Vxr_CN8L-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-26" y="291" as="sourcePoint" />
-            <mxPoint x="-39" y="439" as="targetPoint" />
+            <mxPoint x="-45" y="437" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-57" y="376" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
