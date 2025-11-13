@@ -159,8 +159,11 @@
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yptoiJbeZHL3Vxr_CN8L-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="91" y="264" as="sourcePoint" />
-            <mxPoint x="121" y="372" as="targetPoint" />
+            <mxPoint x="138" y="287" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yptoiJbeZHL3Vxr_CN8L-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1" y="315" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
