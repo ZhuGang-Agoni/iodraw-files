@@ -282,6 +282,9 @@
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-37" value="Y" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="422" y="404" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yptoiJbeZHL3Vxr_CN8L-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="659" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
