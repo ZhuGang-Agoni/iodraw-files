@@ -171,7 +171,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-60" value="订货信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cO3OepcjoAuBKyQcFrwY-61" value="订货信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="555" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
