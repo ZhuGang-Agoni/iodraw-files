@@ -23,7 +23,7 @@
           <mxGeometry x="515" y="431.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-32" value="库存清单" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="704" y="236" width="60" height="30" as="geometry" />
+          <mxGeometry x="649" y="295" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YIO2dRM313xVdhjlN60b-1" value="D1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="857" y="221" width="60" height="30" as="geometry" />
+          <mxGeometry x="597.5" y="295" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YIO2dRM313xVdhjlN60b-2" value="仓库管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="191" y="430" width="120" height="60" as="geometry" />
