@@ -145,6 +145,9 @@
         <mxCell id="cO3OepcjoAuBKyQcFrwY-56" value="订货装表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="440" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="cO3OepcjoAuBKyQcFrwY-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="425" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
