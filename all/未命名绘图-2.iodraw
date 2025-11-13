@@ -51,8 +51,8 @@
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="978" y="345" as="sourcePoint" />
-            <mxPoint x="1043" y="345" as="targetPoint" />
+            <mxPoint x="1170" y="460.5" as="sourcePoint" />
+            <mxPoint x="1235" y="460.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-56" value="订货装表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
