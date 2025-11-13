@@ -45,8 +45,8 @@
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="460" as="sourcePoint" />
-            <mxPoint x="700" y="460" as="targetPoint" />
+            <mxPoint x="667" y="461" as="sourcePoint" />
+            <mxPoint x="767" y="461" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-37" value="库存信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -110,13 +110,13 @@
           <mxGeometry y="30" width="65" height="33" as="geometry" />
         </mxCell>
         <mxCell id="YIO2dRM313xVdhjlN60b-7" value="1.3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="703" y="430" width="65" height="63" as="geometry" />
+          <mxGeometry x="807.5" y="421" width="65" height="63" as="geometry" />
         </mxCell>
         <mxCell id="YIO2dRM313xVdhjlN60b-8" value="处理订货" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YIO2dRM313xVdhjlN60b-7">
           <mxGeometry y="30" width="65" height="33" as="geometry" />
         </mxCell>
         <mxCell id="YIO2dRM313xVdhjlN60b-10" value="1.2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420.5" y="531" width="139" height="60" as="geometry" />
+          <mxGeometry x="528" y="431.5" width="139" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YIO2dRM313xVdhjlN60b-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 更新库存清单" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YIO2dRM313xVdhjlN60b-10">
           <mxGeometry y="30" width="139" height="30" as="geometry" />
