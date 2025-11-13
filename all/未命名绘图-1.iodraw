@@ -13,9 +13,6 @@
             <mxPoint x="390" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cO3OepcjoAuBKyQcFrwY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cO3OepcjoAuBKyQcFrwY-5" target="cO3OepcjoAuBKyQcFrwY-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -26,10 +23,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-7" value="1.1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-8" value="接收事务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="460" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-10" value="事务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="430" width="60" height="30" as="geometry" />
