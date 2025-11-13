@@ -390,7 +390,7 @@
           <mxGeometry x="9" y="143" width="20" height="199" as="geometry" />
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-30" value="根据所在部门查看职工" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="137" y="167" width="20" height="199" as="geometry" />
+          <mxGeometry x="78" y="143" width="20" height="199" as="geometry" />
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -424,8 +424,8 @@
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="71" y="203" as="sourcePoint" />
-            <mxPoint x="71" y="147" as="targetPoint" />
+            <mxPoint x="554.5" y="143" as="sourcePoint" />
+            <mxPoint x="554.5" y="87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
