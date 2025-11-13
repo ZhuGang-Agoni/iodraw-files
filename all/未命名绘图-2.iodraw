@@ -322,8 +322,8 @@
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="196" y="62" as="sourcePoint" />
-            <mxPoint x="196" y="-6" as="targetPoint" />
+            <mxPoint x="101" y="32" as="sourcePoint" />
+            <mxPoint x="101" y="-36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -351,7 +351,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-10" value="职工管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="32" width="60" height="120" as="geometry" />
+          <mxGeometry x="-20" y="32" width="60" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-11" value="职工管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="42" width="60" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
