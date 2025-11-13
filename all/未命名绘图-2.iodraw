@@ -312,7 +312,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-1" value="人事工资管理系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="-89" width="631" height="53" as="geometry" />
+          <mxGeometry x="-46" y="-89" width="644" height="53" as="geometry" />
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -376,6 +376,12 @@
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-18" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=south;" vertex="1" parent="1">
           <mxGeometry x="525" y="32" width="60" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="225" as="sourcePoint" />
+            <mxPoint x="225" y="175" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
