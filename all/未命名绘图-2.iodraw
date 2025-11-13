@@ -153,7 +153,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yptoiJbeZHL3Vxr_CN8L-2" value="&lt;font color=&quot;#ffffff&quot;&gt;输入整数N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelBorderColor=default;" vertex="1" parent="1">
+        <mxCell id="yptoiJbeZHL3Vxr_CN8L-2" value="&lt;font color=&quot;#ffffff&quot;&gt;输入整数N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="78" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yptoiJbeZHL3Vxr_CN8L-2">
