@@ -339,6 +339,7 @@
             <Array as="points">
               <mxPoint x="367" y="27" />
               <mxPoint x="367" y="14" />
+              <mxPoint x="413" y="2" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -350,8 +351,8 @@
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="351" y="67" as="sourcePoint" />
-            <mxPoint x="351" y="-1" as="targetPoint" />
+            <mxPoint x="348" y="32" as="sourcePoint" />
+            <mxPoint x="348" y="-36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-10" value="职工管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=south;" vertex="1" parent="1">
