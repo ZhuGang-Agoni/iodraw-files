@@ -183,7 +183,7 @@
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-8" value="M=SQRT(N)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="81" y="374" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yptoiJbeZHL3Vxr_CN8L-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yptoiJbeZHL3Vxr_CN8L-9" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="137.5" y="434" as="sourcePoint" />
             <mxPoint x="137.5" y="485" as="targetPoint" />
@@ -241,7 +241,7 @@
           <mxGeometry x="470" y="528" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-26" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="605" y="462" width="60" height="30" as="geometry" />
+          <mxGeometry x="551" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-27" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="592" y="328" width="60" height="30" as="geometry" />
