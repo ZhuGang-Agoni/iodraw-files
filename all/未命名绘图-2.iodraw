@@ -176,8 +176,8 @@
         </mxCell>
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="524" y="97" as="sourcePoint" />
-            <mxPoint x="524" y="148" as="targetPoint" />
+            <mxPoint x="529.5" y="96" as="sourcePoint" />
+            <mxPoint x="529.5" y="147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-8" value="M=SQRT(N)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -199,7 +199,7 @@
           <mxGeometry x="81" y="599" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-15" value="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="462" y="47" width="120" height="50" as="geometry" />
+          <mxGeometry x="470" y="46" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -208,7 +208,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-17" value="K=2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="466" y="147" width="120" height="60" as="geometry" />
+          <mxGeometry x="473" y="147" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
