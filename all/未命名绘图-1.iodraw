@@ -121,13 +121,13 @@
         <mxCell id="cO3OepcjoAuBKyQcFrwY-45" value="订货信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="575" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cO3OepcjoAuBKyQcFrwY-49" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="cO3OepcjoAuBKyQcFrwY-49" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.167;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cO3OepcjoAuBKyQcFrwY-38" target="cO3OepcjoAuBKyQcFrwY-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="580" as="sourcePoint" />
-            <mxPoint x="610" y="530" as="targetPoint" />
+            <mxPoint x="775" y="550" as="sourcePoint" />
+            <mxPoint x="825" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="610" y="580" />
-              <mxPoint x="560" y="530" />
+              <mxPoint x="825" y="550" />
+              <mxPoint x="775" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
