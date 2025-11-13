@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cO3OepcjoAuBKyQcFrwY-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="290" width="15" height="40" as="geometry" />
+          <mxGeometry x="505" y="290" width="25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-2" value="仓库管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="430" width="120" height="60" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="540" y="295" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-33" value="D1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="295" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="295" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.574;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
