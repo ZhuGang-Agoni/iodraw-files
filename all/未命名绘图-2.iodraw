@@ -312,7 +312,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-1" value="人事工资管理系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="-89" width="433" height="53" as="geometry" />
+          <mxGeometry x="-32" y="-89" width="462" height="53" as="geometry" />
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -351,7 +351,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="32" width="60" height="120" as="geometry" />
+          <mxGeometry x="-20" y="32" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
