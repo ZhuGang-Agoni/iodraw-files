@@ -112,7 +112,7 @@
         <mxCell id="YIO2dRM313xVdhjlN60b-7" value="1.2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="428.5" width="65" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="YIO2dRM313xVdhjlN60b-8" value="接收事务" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YIO2dRM313xVdhjlN60b-7">
+        <mxCell id="YIO2dRM313xVdhjlN60b-8" value="更新库存清单" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YIO2dRM313xVdhjlN60b-7">
           <mxGeometry y="30" width="65" height="33" as="geometry" />
         </mxCell>
       </root>
