@@ -685,7 +685,7 @@
           <mxGeometry x="281" y="190" width="65" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-21" value="存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="464" y="378" width="65" height="45" as="geometry" />
+          <mxGeometry x="473" y="191" width="65" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-22" value="检索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="648" y="433" width="65" height="45" as="geometry" />
