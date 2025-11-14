@@ -670,7 +670,7 @@
           <mxGeometry x="306" y="204" width="65" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-18" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="306" y="299" width="65" height="45" as="geometry" />
+          <mxGeometry x="355.5" y="429" width="65" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-19" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="406" y="204" width="65" height="45" as="geometry" />
