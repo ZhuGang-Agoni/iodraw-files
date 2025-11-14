@@ -699,8 +699,11 @@
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-25" value="添加" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="616" width="65" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5IMTwOsOQx3K9bI6K5gN-26" value="输入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5IMTwOsOQx3K9bI6K5gN-26" value="插入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="201" y="362" width="65" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5IMTwOsOQx3K9bI6K5gN-27" value="输入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="127" y="514" width="65" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
