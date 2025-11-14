@@ -664,7 +664,7 @@
           <mxGeometry x="238" y="178" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="593" y="280" width="100" height="26" as="geometry" />
+          <mxGeometry x="535" y="274" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-16" value="输入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="207" y="203" width="65" height="45" as="geometry" />
@@ -730,7 +730,7 @@
           <mxGeometry x="755" y="6" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-41" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="343" y="249" width="191" height="55" as="geometry" />
+          <mxGeometry x="343" y="249" width="192" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
