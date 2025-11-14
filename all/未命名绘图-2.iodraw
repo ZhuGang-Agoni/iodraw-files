@@ -729,6 +729,12 @@
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-50" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="439" y="296" width="101" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="5IMTwOsOQx3K9bI6K5gN-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="202" y="318" as="sourcePoint" />
+            <mxPoint x="96" y="352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
