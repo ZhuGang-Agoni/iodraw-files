@@ -703,7 +703,7 @@
           <mxGeometry x="201" y="362" width="65" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-27" value="修改" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="127" y="514" width="65" height="45" as="geometry" />
+          <mxGeometry x="156" y="414" width="65" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-28" value="合并" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="249" y="594" width="65" height="45" as="geometry" />
