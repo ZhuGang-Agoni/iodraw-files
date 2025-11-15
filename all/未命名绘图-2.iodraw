@@ -44,7 +44,7 @@
           <mxGeometry x="759" y="436.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-43" value="D2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
-          <mxGeometry x="965" y="688" width="50" height="30" as="geometry" />
+          <mxGeometry x="828" y="690" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-45" value="订货信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="1015" y="621" width="60" height="30" as="geometry" />
@@ -144,24 +144,6 @@
               <mxPoint x="903.46" y="655.5" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Py7_tBJ8sVCnPG1glUHU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="954" y="651" width="25" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Py7_tBJ8sVCnPG1glUHU-2" value="&amp;nbsp; &amp;nbsp; 处理订货" style="text;strokeColor=none;fillColor=#CCE5FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" vertex="1" parent="1">
-          <mxGeometry x="812" y="495" width="104" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Py7_tBJ8sVCnPG1glUHU-3" value="&amp;nbsp; &amp;nbsp; 产生报表" style="text;strokeColor=none;fillColor=#CCE5FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" vertex="1" parent="1">
-          <mxGeometry x="1042" y="495" width="104" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Py7_tBJ8sVCnPG1glUHU-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;更新库存清单" style="text;strokeColor=#000000;fillColor=#CCE5FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" vertex="1" parent="1">
-          <mxGeometry x="573" y="495" width="139" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Py7_tBJ8sVCnPG1glUHU-5" value="&amp;nbsp; &amp;nbsp; 接收事务" style="text;strokeColor=#000000;fillColor=#CCE5FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" vertex="1" parent="1">
-          <mxGeometry x="364" y="496.5" width="104" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Py7_tBJ8sVCnPG1glUHU-6" value="D1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=楷体;" vertex="1" parent="1">
-          <mxGeometry x="573" y="330" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
