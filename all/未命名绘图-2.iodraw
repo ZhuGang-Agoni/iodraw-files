@@ -593,7 +593,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-38" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;矿产资源分析" style="text;strokeColor=none;fillColor=#0000CC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-34" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-39" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;..." style="text;strokeColor=none;fillColor=#0000FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-34" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-39" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ..." style="text;strokeColor=none;fillColor=#0000FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-34" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-40" value="预警分析" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
