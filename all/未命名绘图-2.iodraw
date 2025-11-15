@@ -640,7 +640,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-54" value="&lt;font&gt;国土资源“一张图”核心数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;fontFamily=楷体;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="37" y="653" width="1028" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-57" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#003366;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-57" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="518" y="549" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
