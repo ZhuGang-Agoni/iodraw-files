@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cO3OepcjoAuBKyQcFrwY-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="cO3OepcjoAuBKyQcFrwY-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="981" y="616" width="25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cO3OepcjoAuBKyQcFrwY-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="cO3OepcjoAuBKyQcFrwY-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;fontColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="615" y="290" width="25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" edge="1">
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YIO2dRM313xVdhjlN60b-1" value="D1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
-          <mxGeometry x="486" y="295" width="60" height="30" as="geometry" />
+          <mxGeometry x="600" y="295" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YIO2dRM313xVdhjlN60b-2" value="仓库管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;fontColor=#000000;strokeColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="191" y="430" width="120" height="60" as="geometry" />
