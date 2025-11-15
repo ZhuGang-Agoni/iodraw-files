@@ -672,10 +672,10 @@
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-17" value="输出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="306" y="204" width="65" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5IMTwOsOQx3K9bI6K5gN-18" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="5IMTwOsOQx3K9bI6K5gN-18" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="406" y="342" width="65" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5IMTwOsOQx3K9bI6K5gN-19" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="5IMTwOsOQx3K9bI6K5gN-19" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="406" y="204" width="65" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-20" value="加标题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;fontColor=#000000;strokeColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
