@@ -16,8 +16,8 @@
             <mxPoint x="390" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cO3OepcjoAuBKyQcFrwY-10" value="事务" style="text;strokeColor=#000000;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
-          <mxGeometry x="318" y="430" width="60" height="30" as="geometry" />
+        <mxCell id="cO3OepcjoAuBKyQcFrwY-10" value="事务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+          <mxGeometry x="322" y="398" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-29" value="事务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="515" y="431.5" width="60" height="30" as="geometry" />
