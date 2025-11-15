@@ -504,7 +504,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;用地审批监管" style="text;strokeColor=none;fillColor=#CCCCFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-6" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;供地项目监管" style="text;strokeColor=none;fillColor=#3333FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-6" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;供地项目监管" style="text;strokeColor=none;fillColor=#9999FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-6" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;土地利用监管" style="text;strokeColor=none;fillColor=#6666FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-6" vertex="1">
@@ -524,7 +524,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-17" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; 采矿权监管" style="text;strokeColor=none;fillColor=#CCCCFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-16" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-18" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; 探矿权监管" style="text;strokeColor=none;fillColor=#3333FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-16" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-18" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; 探矿权监管" style="text;strokeColor=none;fillColor=#9999FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-16" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-19" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;矿权综合分析" style="text;strokeColor=none;fillColor=#6666FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-16" vertex="1">
@@ -544,7 +544,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-23" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;灾点监管" style="text;strokeColor=none;fillColor=#CCCCFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-22" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;灾害预警" style="text;strokeColor=none;fillColor=#3333FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-22" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;灾害预警" style="text;strokeColor=none;fillColor=#9999FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-22" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-25" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;实时监管" style="text;strokeColor=none;fillColor=#6666FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-22" vertex="1">
@@ -564,7 +564,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-29" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;违法案件管理" style="text;strokeColor=none;fillColor=#CCCCFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-28" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-30" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;日常寻常监管" style="text;strokeColor=none;fillColor=#3333FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-28" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-30" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;日常寻常监管" style="text;strokeColor=none;fillColor=#9999FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-28" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-31" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; GPS设备监管" style="text;strokeColor=none;fillColor=#6666FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-28" vertex="1">
@@ -584,7 +584,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-35" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;用地情况分析" style="text;strokeColor=none;fillColor=#CCCCFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-34" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-36" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;供地情况分析" style="text;strokeColor=none;fillColor=#3333FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-34" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-36" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;供地情况分析" style="text;strokeColor=none;fillColor=#9999FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-34" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-37" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;土地利用分析" style="text;strokeColor=none;fillColor=#6666FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-34" vertex="1">
@@ -604,7 +604,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-41" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; 供地率预警" style="text;strokeColor=none;fillColor=#CCCCFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-40" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-42" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;批而未供预警" style="text;strokeColor=none;fillColor=#3333FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-40" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-42" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;批而未供预警" style="text;strokeColor=none;fillColor=#9999FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-40" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-43" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;供而未用预警" style="text;strokeColor=none;fillColor=#6666FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-40" vertex="1">
