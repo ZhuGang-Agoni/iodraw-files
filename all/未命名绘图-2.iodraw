@@ -751,13 +751,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9vimImwPaVvcRw2nOWwL-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5IMTwOsOQx3K9bI6K5gN-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="267" as="sourcePoint" />
-            <mxPoint x="730" y="251" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9vimImwPaVvcRw2nOWwL-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;spacing=0;spacingBottom=3;spacingTop=0;" edge="1" parent="1" target="5IMTwOsOQx3K9bI6K5gN-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="830" y="272" as="sourcePoint" />
@@ -776,13 +769,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1029" y="272" as="sourcePoint" />
             <mxPoint x="1029" y="260" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9vimImwPaVvcRw2nOWwL-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5IMTwOsOQx3K9bI6K5gN-29">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="934" y="411" as="sourcePoint" />
-            <mxPoint x="1039" y="258" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
