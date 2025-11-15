@@ -314,7 +314,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-1" value="人事工资管理系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-1" value="人事工资管理系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="-46" y="-89" width="644" height="53" as="geometry" />
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-2" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" edge="1">
@@ -818,7 +818,7 @@
         </mxCell>
         <mxCell id="9vimImwPaVvcRw2nOWwL-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5IMTwOsOQx3K9bI6K5gN-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1049" y="292" as="sourcePoint" />
+            <mxPoint x="931" y="271" as="sourcePoint" />
             <mxPoint x="1049" y="268" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
