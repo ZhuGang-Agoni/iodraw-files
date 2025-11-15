@@ -100,6 +100,9 @@
         <mxCell id="YIO2dRM313xVdhjlN60b-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 更新库存清单" style="text;strokeColor=#FFFFFF;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="YIO2dRM313xVdhjlN60b-10" vertex="1">
           <mxGeometry y="30" width="139" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OiW9IwjiE3xRgKp-32FX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIO2dRM313xVdhjlN60b-15" target="OiW9IwjiE3xRgKp-32FX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIO2dRM313xVdhjlN60b-15" value="1.1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="391" y="431.5" width="104" height="60" as="geometry" />
         </mxCell>
@@ -144,6 +147,12 @@
               <mxPoint x="903.46" y="655.5" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OiW9IwjiE3xRgKp-32FX-1" value="1.1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="207" y="431.5" width="104" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OiW9IwjiE3xRgKp-32FX-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;接收事务" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="OiW9IwjiE3xRgKp-32FX-1">
+          <mxGeometry y="30" width="104" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
