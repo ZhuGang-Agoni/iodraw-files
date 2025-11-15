@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-37" value="库存信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
-          <mxGeometry x="757" y="435" width="60" height="20" as="geometry" />
+          <mxGeometry x="768" y="389" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-43" value="D2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="971" y="621" width="50" height="30" as="geometry" />
