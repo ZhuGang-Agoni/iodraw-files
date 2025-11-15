@@ -490,7 +490,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006633;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFE6;" parent="1" vertex="1">
           <mxGeometry x="-72" y="39" width="1303" height="366" as="geometry" />
         </mxCell>
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-1" value="MapGIS国土资源“一张图”综合监管平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
