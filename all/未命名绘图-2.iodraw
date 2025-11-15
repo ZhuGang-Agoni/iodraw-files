@@ -493,10 +493,10 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006633;" parent="1" vertex="1">
           <mxGeometry x="-72" y="39" width="1303" height="366" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-1" value="MapGIS国土资源“一张图”综合监管平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#FFFFFF;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-1" value="MapGIS国土资源“一张图”综合监管平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="34" y="75" width="1040" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-6" value="“一张图”管地" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#FFFFFF;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-6" value="“一张图”管地" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="-8" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -516,7 +516,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;..." style="text;strokeColor=none;fillColor=#0000FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="fzcSreQ_zFp3B8k7P6YF-6" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-16" value="“一张图”管矿" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#FFFFFF;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-16" value="“一张图”管矿" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="189" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -536,7 +536,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-21" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;..." style="text;strokeColor=none;fillColor=#0000FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="fzcSreQ_zFp3B8k7P6YF-16" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-22" value="“一张图”防灾" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#FFFFFF;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-22" value="“一张图”防灾" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="382" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -556,12 +556,12 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-27" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;..." style="text;strokeColor=none;fillColor=#0000FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="fzcSreQ_zFp3B8k7P6YF-22" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-28" value="“一张图”执法" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#FFFFFF;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-28" value="“一张图”执法" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="599" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-29" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;违法案件管理" style="text;strokeColor=none;fillColor=#000033;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-28" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-29" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;违法案件管理" style="text;strokeColor=none;fillColor=#000033;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-28" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-30" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;日常寻常监管" style="text;strokeColor=none;fillColor=#000066;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="fzcSreQ_zFp3B8k7P6YF-28" vertex="1">
@@ -576,7 +576,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-33" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;..." style="text;strokeColor=none;fillColor=#0000FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="fzcSreQ_zFp3B8k7P6YF-28" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-34" value="动态监管" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#FFFFFF;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-34" value="动态监管" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="786" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -596,7 +596,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-39" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;..." style="text;strokeColor=none;fillColor=#0000FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="fzcSreQ_zFp3B8k7P6YF-34" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-40" value="预警分析" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#FFFFFF;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-40" value="预警分析" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="972" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -637,7 +637,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-53" value="&lt;font&gt;MapGIS统一数据管理与服务体系&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="36" y="483" width="1024" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-54" value="&lt;font color=&quot;#ffffff&quot;&gt;国土资源“一张图”核心数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-54" value="&lt;font&gt;国土资源“一张图”核心数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;fontFamily=楷体;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="37" y="653" width="1028" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-57" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#003366;" parent="1" vertex="1">
