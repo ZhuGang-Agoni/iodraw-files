@@ -651,7 +651,7 @@
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-1" value="正文加工系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="574" y="93" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5IMTwOsOQx3K9bI6K5gN-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;strokeColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="5IMTwOsOQx3K9bI6K5gN-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;strokeColor=#FFFFFF;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="539" y="153" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5IMTwOsOQx3K9bI6K5gN-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;strokeColor=#FFFFFF;" parent="1" vertex="1">
