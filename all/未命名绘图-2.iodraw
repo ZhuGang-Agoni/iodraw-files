@@ -496,7 +496,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-1" value="MapGIS国土资源“一张图”综合监管平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="34" y="75" width="1040" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-6" value="“一张图”管地" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-6" value="“一张图”管地" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="-8" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -516,7 +516,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ..." style="text;strokeColor=none;fillColor=#CCCCFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-6" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-16" value="“一张图”管矿" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-16" value="“一张图”管矿" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="189" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -536,7 +536,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-21" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ..." style="text;strokeColor=none;fillColor=#CCCCFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-16" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-22" value="“一张图”防灾" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-22" value="“一张图”防灾" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="382" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -556,7 +556,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-27" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ..." style="text;strokeColor=none;fillColor=#CCCCFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-22" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-28" value="“一张图”执法" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-28" value="“一张图”执法" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="599" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -576,7 +576,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-33" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ..." style="text;strokeColor=none;fillColor=#CCCCFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-28" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-34" value="动态监管" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-34" value="动态监管" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="786" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -596,7 +596,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-39" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ..." style="text;strokeColor=none;fillColor=#CCCCFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=楷体;" parent="fzcSreQ_zFp3B8k7P6YF-34" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-40" value="预警分析" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#003366;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-40" value="预警分析" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="972" y="165" width="140" height="180" as="geometry">
             <mxRectangle x="82" y="178" width="103" height="30" as="alternateBounds" />
           </mxGeometry>
